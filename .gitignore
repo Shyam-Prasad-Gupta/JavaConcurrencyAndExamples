@@ -1,0 +1,11 @@
+
+#ignore the eclipse project files
+.classpath
+.project
+.settings
+
+#ignore class files
+*.class
+/target/*
+/classes/
+
